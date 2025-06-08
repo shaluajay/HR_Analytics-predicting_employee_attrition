@@ -1,6 +1,6 @@
 # HR Analytics - Predict Employee Attrition
 
-## 📌 Objective
+##  Objective
 Use analytics and machine learning to understand the key drivers behind employee attrition. The project also aims to provide actionable recommendations to reduce attrition.
 
 ---
@@ -12,7 +12,7 @@ Use analytics and machine learning to understand the key drivers behind employee
 - **Model**:  Decision Tree Classifier
 
 
-## 🧪 Process Overview
+##  Process Overview
 
 ### 1. Exploratory Data Analysis (EDA)
 - Department-wise attrition
@@ -41,7 +41,7 @@ Use analytics and machine learning to understand the key drivers behind employee
 - Distribution of attrition across demographics
 
 
-## 📊 Key Insights (From Power BI Dashboard)
+##  Key Insights (From Power BI Dashboard)
 - Highest attrition in **Research & Development** and **Sales**
 - **30–39 age group** most likely to leave
 - Employees in **medium salary band** most prone to attrition
